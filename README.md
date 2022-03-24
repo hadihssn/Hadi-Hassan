@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hadihssn
+- 👋 Hi, I’m Hadi
 - 👀 I’m interested in website development.
 - 🌱 I’m currently learning basics of web development like HTML, CSS.
 - 💞️ I’m looking to collaborate on basic website projects
