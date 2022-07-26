@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hadi
-- 👀 I’m interested in website development.
-- 🌱 I’m currently learning basics of web development like HTML, CSS.
+- 👀 I’m interested in Web Dev., IOS App Dev., Game Dev.
+- 🌱 I’m currently learning basics of Web Dev., Game Dev.
 - 💞️ I’m looking to collaborate on basic website projects
 - 📫 You can reach me at my email: hadihassan4443@gmail.com
 
