@@ -1,5 +1,6 @@
 # Welcome to my Intro Repo
 - 👋 Hi, I’m Hadi
+- 👨‍🎓 Senior year at UCP, Lhr
 - 💻 Currently learning Web Development and App Development
 - 📧 You can reach me at: hadihassan4443@gmail.com
 
