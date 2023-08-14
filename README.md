@@ -2,6 +2,9 @@
 - 👋 Hi, I’m Hadi
 - 👨‍🎓 Senior year at UCP, Lhr
 - 💻 Currently learning Web Development and App Development
+- 🖊 I'm writing on Medium: https://medium.com/@hadihssn
+- I make videos📹 and capture photos📷 both of which go on ig: @hadiproductions_
+- I also sometimes make youtube videos: https://www.youtube.com/@reviewbox_
 - 📧 You can reach me at: hadihassan4443@gmail.com
 
 <!---
