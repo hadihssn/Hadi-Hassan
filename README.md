@@ -1,7 +1,7 @@
 # Welcome to my Intro Repo
 - 👋 Hi, I’m Hadi
-- 👨‍🎓 Senior year at UCP, Lhr
-- 💻 Currently learning Web Development
+- 👨‍🎓 Senior year at UCP - Lhr, PK
+- 💻 Currently learning Web development
 - 🖊 I'm writing on Medium: https://medium.com/@hadihssn
 - I make videos📹 and capture photos📷 both of which go on ig: @hadiproductions_ and @syedhadihssn._
 - I also sometimes make youtube videos: https://www.youtube.com/@reviewbox_ and https://youtube.com/@hadihassan_
